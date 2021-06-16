@@ -399,6 +399,13 @@ header {
   text-align: center;
 }
 
+/* Weekly Digests */
+.my-weeklydigests {
+  background-color: var(--clr-dark);
+  color: var(--clr-light);
+  text-align: center;
+}
+
 .portfolio {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
